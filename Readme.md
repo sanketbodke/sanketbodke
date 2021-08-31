@@ -34,17 +34,18 @@
 
 
 ## 📘 Currently Learning:
+   
+<p align="left">   
    <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
    <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
-   <img src="https://img.icons8.com/color/48/000000/sass-avatar.png"/>
-<p align="left">   
-    
+   <img src="https://img.icons8.com/color/48/000000/sass-avatar.png"/> 
 </p>
 
 
-<p align="left">
 
 ## 🤝🏼 Connect with me:
+
+<p align="left">
 
 <a href = "https://www.linkedin.com/in/sanket-bodake-995b5b205/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/Sanket46171296"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
