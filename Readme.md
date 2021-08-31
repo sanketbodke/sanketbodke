@@ -51,6 +51,4 @@
 <a href = "https://twitter.com/Sanket46171296"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/imsanketbodke/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.facebook.com/sanket.bodke.35/"><img src="https://img.icons8.com/fluency/48/000000/facebook.png">
-<a href = "https://codepen.io/sanketbodke"><img src="https://img.icons8.com/ios/48/000000/codepen.png"/></a>
-<a href = "https://dev.to/sanketbodake"><img src="https://img.icons8.com/windows/48/000000/dev.png"/><a>
 </p>
