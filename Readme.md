@@ -12,7 +12,7 @@
 
 - 👦 16-year-old
 
-- 🔭 I'm currently working on **private web projects.**
+- ⚙️ Open-Source enthusiastic
 
 - 🌱 I’m currently learning **C Programming and JavaScript and so on...**
 
