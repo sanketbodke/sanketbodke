@@ -24,6 +24,9 @@
 
 <br/>
 
+<img src="https://github-readme-stats.vercel.app/api?username=sanketbodke&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
+
+
 ## 🚀 Skills Languages:
 
 <p align="left">   
@@ -51,9 +54,5 @@
 <a href = "https://twitter.com/Sanket46171296"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/imsanketbodke/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.facebook.com/sanket.bodke.35/"><img src="https://img.icons8.com/fluency/48/000000/facebook.png">
-<a href = "https://dev.to/sanketbodake"><svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
-width="48" height="48"
-viewBox="0 0 172 172"
-style=" fill:#000000;"><g fill="none" fill-rule="nonzero" stroke="none" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" stroke-dasharray="" stroke-dashoffset="0" font-family="none" font-weight="none" font-size="none" text-anchor="none" style="mix-blend-mode: normal"><path d="M0,172v-172h172v172z" fill="none"></path><g fill="#e74c3c"><path d="M10.75,37.625v96.75h150.5v-96.75zM21.5,48.375h129v75.25h-129zM32.25,59.125v53.75h16.125c8.89025,0 16.125,-7.23475 16.125,-16.125v-21.5c0,-8.89025 -7.23475,-16.125 -16.125,-16.125zM86,59.125c-5.92862,0 -10.75,4.82138 -10.75,10.75v32.25c0,5.92863 4.82138,10.75 10.75,10.75h10.75v-10.75h-10.75v-10.75h10.75v-10.75h-10.75v-10.75h10.75v-10.75zM105.84131,59.125l11.20142,48.51148c0.7095,3.06375 3.4379,5.23852 6.58227,5.23852c3.14438,0 5.87277,-2.17477 6.58227,-5.23852l11.20142,-48.51148h-11.03345l-6.75024,29.23706l-6.75024,-29.23706zM43,69.875h5.375c2.967,0 5.375,2.408 5.375,5.375v21.5c0,2.967 -2.408,5.375 -5.375,5.375h-5.375z"></path></g></g></svg></a>
-
+<a href = "https://dev.to/sanketbodake" ><img src="https://img.icons8.com/color/50/000000/devpost.png"/></a>
 </p>
