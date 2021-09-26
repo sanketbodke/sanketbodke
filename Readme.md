@@ -29,9 +29,8 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=sanketbodke&show_icons=true&theme=light&line_height=27" alt="Sanket's github stats"/>
 
 <br/>
-<br/>
 
-# 🔗 Know more about me 
+## 🔗 Know more about me 
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sanketbodake.ninja//)
 [![Twitter](https://img.shields.io/badge/-Sanket46171296-black?style=for-the-badge&logo=twitter)](https://twitter.com/Sanket46171296)
