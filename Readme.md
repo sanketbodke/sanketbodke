@@ -24,40 +24,20 @@
 
 <br/>
 
+## 📊 Github Stats
+
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=sanketbodke&show_icons=true&theme=light&line_height=27" alt="Sanket's github stats"/>
 
 <br/>
+<br/>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanketbodke&theme=light&hide_langs_below=1" />
+# 🔗 Know more about me 
 
-
-## 🚀 Skills Languages:
-
-<p align="left">   
-    <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
-    <img src="https://img.icons8.com/color/48/000000/css3.png"/> 
-    <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> 
-</p>
-
-
-## 📘 Currently Learning:
-   
-<p align="left">   
-   <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
-   <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
-   <img src="https://img.icons8.com/color/48/000000/sass-avatar.png"/> 
-</p>
-
-
-
-## 🤝🏼 Connect with me:
-
-<p align="left">
-
-<a href = "https://www.linkedin.com/in/sanket-bodake-995b5b205/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/Sanket46171296"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/imsanketbodke/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.facebook.com/sanket.bodke.35/"><img src="https://img.icons8.com/fluency/48/000000/facebook.png">
-<a href = "https://dev.to/sanketbodake" ><img src="https://img.icons8.com/color/50/000000/devpost.png"/></a>
-<a href = "https://codepen.io/sanketbodke"><img src="https://img.icons8.com/color/48/000000/codepen.png"/></a>
-</p>
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sanketbodake.ninja//)
+[![Twitter](https://img.shields.io/badge/-Sanket46171296-black?style=for-the-badge&logo=twitter)](https://twitter.com/Sanket46171296)
+[![Linkedin](https://img.shields.io/badge/-SanketBodake-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/sanket-bodake-995b5b205/)
+[![Instagram](https://img.shields.io/badge/-imsanketbodke-black?style=for-the-badge&logo=instagram)](https://www.instagram.com/imsanketbodke/)
+[![Codepen](https://img.shields.io/badge/-sanketbodke-black?style=for-the-badge&logo=Codepen)](https://codepen.io/sanketbodke)
+[![DEVCommunity](https://img.shields.io/badge/-sanketbodke-black?style=for-the-badge&logo=dev.to)](https://dev.to/sanketbodake)
+[![Facebook](https://img.shields.io/badge/-sanketbodke-black?style=for-the-badge&logo=Facebook)](https://www.facebook.com/sanket.bodke.35/)
+[![Medium](https://img.shields.io/badge/-Sanketbodke-black?style=for-the-badge&logo=Medium)](https://medium.com/@sanketbodke26)
