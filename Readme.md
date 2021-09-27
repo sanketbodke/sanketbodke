@@ -28,15 +28,14 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=sanketbodke&show_icons=true&theme=light&line_height=27" alt="Sanket's github stats"/>
 
-<br/>
 
 ## 🔗 Know more about me 
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sanketbodake.ninja//)
-[![Twitter](https://img.shields.io/badge/-Sanket46171296-black?style=for-the-badge&logo=twitter)](https://twitter.com/Sanket46171296)
-[![Linkedin](https://img.shields.io/badge/-SanketBodake-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/sanket-bodake-995b5b205/)
-[![Instagram](https://img.shields.io/badge/-imsanketbodke-black?style=for-the-badge&logo=instagram)](https://www.instagram.com/imsanketbodke/)
-[![Codepen](https://img.shields.io/badge/-sanketbodke-black?style=for-the-badge&logo=Codepen)](https://codepen.io/sanketbodke)
-[![DEVCommunity](https://img.shields.io/badge/-sanketbodke-black?style=for-the-badge&logo=dev.to)](https://dev.to/sanketbodake)
-[![Facebook](https://img.shields.io/badge/-sanketbodke-black?style=for-the-badge&logo=Facebook)](https://www.facebook.com/sanket.bodke.35/)
-[![Medium](https://img.shields.io/badge/-Sanketbodke-black?style=for-the-badge&logo=Medium)](https://medium.com/@sanketbodke26)
+[![Twitter](https://img.shields.io/badge/-twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/Sanket46171296)
+[![Linkedin](https://img.shields.io/badge/-linkedin-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/sanket-bodake-995b5b205/)
+[![Instagram](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram)](https://www.instagram.com/imsanketbodke/)
+[![Codepen](https://img.shields.io/badge/-codepen-black?style=for-the-badge&logo=Codepen)](https://codepen.io/sanketbodke)
+[![DEVCommunity](https://img.shields.io/badge/-DEVCommunity-black?style=for-the-badge&logo=dev.to)](https://dev.to/sanketbodake)
+[![Facebook](https://img.shields.io/badge/-facebook-black?style=for-the-badge&logo=Facebook)](https://www.facebook.com/sanket.bodke.35/)
+[![Medium](https://img.shields.io/badge/-medium-black?style=for-the-badge&logo=Medium)](https://medium.com/@sanketbodke26)
