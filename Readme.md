@@ -26,7 +26,7 @@
 
 ## 📊 Github Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanketbodke&show_icons=true&theme=light&line_height=27" alt="Sanket's github stats"/>
+ <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sanketbodke&count_private=true&show_icons=true&include_all_commits=true" alt="Sanket Bodake | Stats" />
 
 
 ## 🔗 Know more about me 
