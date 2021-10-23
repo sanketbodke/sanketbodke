@@ -10,7 +10,7 @@
 
 ## 🧐 About Me
 
-- 👦 16-year-old
+- 👦 16-year-old, self taught developer 
 
 - ⚙️ Open-Source enthusiastic
 
