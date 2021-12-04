@@ -24,10 +24,11 @@
 
 <br/>
 
-## 📊 Github Stats
+<!-- ## 📊 Github Stats
 
- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sanketbodke&count_private=true&show_icons=true&include_all_commits=true" alt="Sanket Bodake | Stats" />
+ <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sanketbodke&count_private=true&show_icons=true&include_all_commits=true" alt="Sanket Bodake | Stats" /> -->
 
+![Metrics](https://metrics.lecoq.io/sanketbodke?template=classic&base.header=0&base.metadata=0&followup=1&languages=1&config.timezone=Europe%2FLondon&config.animated=true)
 
 ## 🔗 Know more about me 
 
