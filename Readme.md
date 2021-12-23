@@ -24,12 +24,9 @@
 
 <br/>
 
-<!-- ## 📊 Github Stats
+## 📊 Github Stats
 
- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sanketbodke&count_private=true&show_icons=true&include_all_commits=true" alt="Sanket Bodake | Stats" /> -->
-
-![Metrics](https://metrics.lecoq.io/sanketbodke?template=classic&base.header=0&base.metadata=0&followup=1&languages=1&config.timezone=Europe%2FLondon&config.animated=true)
-
+ ![sanketbodke's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanketbodke&show_icons=true&theme=ocean_dark)
 ## 🔗 Know more about me 
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sanketbodake.ninja//)
