@@ -1,5 +1,5 @@
 <p align="center">
-<a href="#"><img height="200" src="https://i.postimg.cc/HnpYDJK7/fbavatar-1630400713542-6838396234415066864.png" height="175px"/></a>
+<a href="#"><img height="200" src="https://i.postimg.cc/tTjfbJs1/fbavatar-1629642717757-6835216969661325575.png" height="175px"/></a>
 </p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sanket</h1>
