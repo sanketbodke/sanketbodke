@@ -2,7 +2,7 @@
 <a href="#"><img height="200" src="https://i.postimg.cc/tTjfbJs1/fbavatar-1629642717757-6835216969661325575.png" height="175px"/></a>
 </p>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="33px" height="30px">, I'm Sanket</h1>
+<h1 align="center">Hi I'm Sanket</h1>
 
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=sanketbodke">
