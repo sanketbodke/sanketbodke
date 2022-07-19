@@ -1,28 +1,30 @@
-<p align="center">
-<a href="#"><img height="200" src="https://i.postimg.cc/tTjfbJs1/fbavatar-1629642717757-6835216969661325575.png" height="175px"/></a>
-</p>
-
-<h1 align="center">Hi I'm Sanket</h1>
+<h1>Hi I'm <i><a href="https://github.com/sanketbodke" rel="nofollow">Sanket<i></a></h1>
 
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=sanketbodke">
 </a>
+<img src="https://camo.githubusercontent.com/ebb72777ae5276b4e841371e0819913f9d0b6dc194f0c1cf7f852c19f3cbc254/68747470733a2f2f6261646765732e66726170736f66742e636f6d2f6f732f76312f6f70656e2d736f757263652e7376673f763d313032" alt="Open Source Love" data-canonical-src="https://badges.frapsoft.com/os/v1/open-source.svg?v=102" style="max-width: 100%;">
 
-## 🧐 About Me
+<br>
 
-- 👦 18-year-old, self taught developer 
-
-- ⚙️ Open-Source enthusiastic
-
-- 🌱 I’m currently learning **C Programming and JavaScript and so on...**
-
-- 💻 My Work **<a href="https://codepen.io/sanketbodke">CodePen</a>**
-
-- 😍 Love to watch web series 🍿 and playing cricket 🏏
-
-- 🚩 My email  <a href="mailto:sanketbodke26@gmail.com" target="_blank">sanketbodke26@gmail.com</a>
-
-<br/>
+    const SANKET = {
+        fullName: 'Sanket Bodke',
+        location: 'Pune, India',
+        techStack: {
+            frontEnd: {
+                code: [JavaScript, HTML, CSS],
+            },
+            backEnd: {
+                databases: [PostgreSQL, MySQL]
+            }
+        },
+        tools: [Git, Figma],
+        askMeAbout: ['HTML','CSS','web development'],
+        contact: {
+            email: `sanketbodke26@gmail.com`,
+            twitter: @Sanket46171296
+        },
+    };
 
 ## 📊 Github Stats
 
