@@ -30,9 +30,6 @@
 ## 📊 Github Stats
 
  ![sanketbodke's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanketbodke&show_icons=true&theme=ocean_dark)
-
- <img src="https://camo.githubusercontent.com/b651b362b8a354b91e9382f4b35581d8a2ceeb58ec7c3edfcf3d97dbf6d359a1/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d64617669642d6b617269756b69267468656d653d6461726b26686964655f626f726465723d66616c736526696e636c7564655f616c6c5f636f6d6d6974733d7472756526636f756e745f707269766174653d74727565266c61796f75743d636f6d70616374" alt="" data-canonical-src="https://github-readme-stats.vercel.app/api?username=sanketbodke&show_icons=true&theme=ocean_dark;include_all_commits=true&amp;count_private=true&amp;layout=compact" style="max-width: 100%;">
-
 ## 🔗 Know more about me 
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sanketbodake.ninja//)
