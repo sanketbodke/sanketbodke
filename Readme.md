@@ -19,9 +19,10 @@
                 databases: [PostgreSQL, MySQL]
             }
         },
-        tools: [Git, Figma],
+
         askMeAbout: ['HTML','CSS','web development'],
         contact: {
+            website: sanketbodake.ninja
             email: `sanketbodke26@gmail.com`,
             twitter: @Sanket46171296
         },
