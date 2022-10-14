@@ -34,7 +34,7 @@ const sanket = {
  ![sanketbodke's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanketbodke&show_icons=true&theme=ocean_dark)
 ## 🔗 Know more about me 
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sanketbodake.ninja//)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sanketbodake.netlify.app//)
 [![Twitter](https://img.shields.io/badge/-twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/Sanket46171296)
 [![Linkedin](https://img.shields.io/badge/-linkedin-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/sanket-bodake-995b5b205/)
 [![Instagram](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram)](https://www.instagram.com/code.sanket/)
