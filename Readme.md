@@ -26,6 +26,7 @@ const sanket = {
         email: `sanketbodke26@gmail.com`,
         twitter: @Sanket46171296
     },
+    OS: 'Mac'
 };
 ```
 
