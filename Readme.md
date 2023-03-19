@@ -36,7 +36,7 @@ const sanket = {
 ## 🔗 Know more about me 
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sanketbodake.netlify.app//)
-[![Twitter](https://img.shields.io/badge/-twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/code.sanket)
+[![Twitter](https://img.shields.io/badge/-twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/code_sanket)
 [![Linkedin](https://img.shields.io/badge/-linkedin-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/sanket-bodake-995b5b205/)
 [![Instagram](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram)](https://www.instagram.com/code.sanket/)
 [![Codepen](https://img.shields.io/badge/-codepen-black?style=for-the-badge&logo=Codepen)](https://codepen.io/sanketbodke)
