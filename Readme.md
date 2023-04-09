@@ -18,6 +18,7 @@
 <br>
 
 - A passionate Self-taught developer
+- Open-source enthusiastic
 - Currently learning Web Development by Self
 - Personal website [link](https://sanketbodake.netlify.app)
 
@@ -126,9 +127,9 @@
 </div>
 <br>
 <br>
+<br>
+<br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
-<br>
 <br>
 <br>
 
