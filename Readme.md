@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sanket</h1>
 <h3 align="center">code.sanket</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanketbodke&label=Profile%20views&color=0e75b6&style=flat" alt="sanketbodke" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sanketbodke&label=Profile%20views&color=0e75b6&style=flat" alt="sanketbodke" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanketbodke" alt="sanketbodke" /></a> </p>
 
 - 🌱 I’m currently learning **React and Python**
 
@@ -35,3 +34,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanketbodke&show_icons=true&locale=en" alt="sanketbodke" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanketbodke&" alt="sanketbodke" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanketbodke" alt="sanketbodke" /></a> </p>
