@@ -8,13 +8,13 @@
 
 - 👨‍💻 All of my projects are available at [https://sanketbodake.netlify.app/](https://sanketbodake.netlify.app/)
 
-- 📝 I regularly write articles on [https://medium.com/@sanketbodke26](https://medium.com/@sanketbodke26)
+- 📝 I regularly write articles on [https://medium.com/@sanketbodke26](https://medium.com/@sanketbodke26) & [https://dev.to/sanketbodake](https://dev.to/sanketbodake)
 
 - 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **sanketbodke26@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ CodePen [https://codepen.io/sanketbodke](https://codepen.io/sanketbodke)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
