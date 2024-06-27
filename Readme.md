@@ -4,8 +4,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sanketbodke&label=Profile%20views&color=0e75b6&style=flat" alt="sanketbodke" /> </p>
 
 
-- 🌱 I’m currently learning **Flutter**
-
 - 👨‍💻 All of my projects are available at [https://sanketbodake.netlify.app/](https://sanketbodake.netlify.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@sanketbodke26](https://medium.com/@sanketbodke26) & [https://dev.to/sanketbodake](https://dev.to/sanketbodake)
